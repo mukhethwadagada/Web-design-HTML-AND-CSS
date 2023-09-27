@@ -1,0 +1,24 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 23 Sep 2022, 12:13:46
+    Author     : Acer
+*/
+body {
+  background-color: lightblue;
+}
+
+h1{
+  color: aqua;
+  margin-left: 20px;
+}
+h2{
+    color:violet;
+    margin:20px;
+}
+p1{
+   color:grey;
+   margin:20px;
+}
